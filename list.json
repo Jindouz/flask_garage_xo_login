@@ -1,0 +1,32 @@
+[
+  [
+    {
+      "Brand": "Chevrolet",
+      "Color": "Red",
+      "ID": 1,
+      "Model": "Corvette",
+      "Plate": "123",
+      "Year": "1999"
+    }
+  ],
+  [
+    {
+      "Brand": "Ford",
+      "Color": "Blue",
+      "ID": 2,
+      "Model": "Mustang",
+      "Plate": "1234",
+      "Year": "1979"
+    }
+  ],
+  [
+    {
+      "Brand": "123",
+      "Color": "123",
+      "ID": 3,
+      "Model": "123",
+      "Plate": "123",
+      "Year": "123"
+    }
+  ]
+]
